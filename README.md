@@ -10,5 +10,6 @@ GeMM Optimization: Tailored for General Matrix Multiply (GeMM) operations, a fun
 SIGMA Architecture: Leveraging the SIGMA Architecture, known for its efficiency and scalability, to accelerate matrix multiplication tasks.
 
 Performance: Designed with a focus on performance improvements, allowing for faster and more efficient matrix operations.
+
 Prompt Engineering : Do prompt engineering for magmasi componenet to generate using Ai
 
